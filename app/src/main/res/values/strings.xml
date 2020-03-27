@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Contacts - Address Book</string>
+    <string name="txtTitle">CONTACTS</string>
+    <string name="btnView1">View</string>
+    <string name="btnView2">View</string>
+    <string name="txtContact1">Johnson, Bob</string>
+    <string name="txtContact2">Jones, Jill</string>
+    <string name="txtStreet1">1234 Mockingbird Lane.</string>
+    <string name="txtCityStateZip1">St Petersburg, FL 33702</string>
+    <string name="txtPhone1">(727) 123-4567</string>
+    <string name="txtStreet2">5555 Corona Way</string>
+    <string name="txtCityStateZip2">Isolation, FL 33701</string>
+    <string name="txtPhone2">(813) 876-5432</string>
+    <string name="imgDescription">Contact Image</string>
+</resources>
